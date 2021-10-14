@@ -1,0 +1,8 @@
+module.exports = {
+  singleQuote: true,
+  printWidth: 115,
+  proseWrap: 'always',
+  semi: false,
+  trailingComma: 'none',
+  htmlWhitespaceSensitivity: 'ignore'
+}
